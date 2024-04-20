@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T17:30:42.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Dg1GRCvIxhWjegzGqhqf" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T18:04:27.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="BFPXx5J9uHOaBliqHMI6" version="24.2.7" type="github">
   <diagram name="Page-1" id="sdzfiEuJjIwl9fb5-KTL">
     <mxGraphModel dx="880" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7M3HWacOhNxR_3aGueMI-10" value="ኣቱ" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="7M3HWacOhNxR_3aGueMI-2" target="7M3HWacOhNxR_3aGueMI-11">
+        <mxCell id="7M3HWacOhNxR_3aGueMI-10" value="እቱ" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="7M3HWacOhNxR_3aGueMI-2" target="7M3HWacOhNxR_3aGueMI-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="450" y="240" as="targetPoint" />
@@ -107,15 +107,6 @@
         <mxCell id="7M3HWacOhNxR_3aGueMI-16" value="q5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="710" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7M3HWacOhNxR_3aGueMI-17" value="አቶ" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="7M3HWacOhNxR_3aGueMI-2" target="7M3HWacOhNxR_3aGueMI-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="490" as="sourcePoint" />
-            <mxPoint x="490" y="471" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7M3HWacOhNxR_3aGueMI-18" value="q4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="500" width="60" height="60" as="geometry" />
         </mxCell>
@@ -141,6 +132,15 @@
         </mxCell>
         <mxCell id="7M3HWacOhNxR_3aGueMI-21" value="TRANSITION GRAPH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="660" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7M3HWacOhNxR_3aGueMI-22" value="እቶ" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="7M3HWacOhNxR_3aGueMI-2" target="7M3HWacOhNxR_3aGueMI-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
